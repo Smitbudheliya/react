@@ -52,7 +52,7 @@ function App() {
     <>
       <Header menuList={menu} />
       <Slider sliderList={slider} />
-      <Product ProductList={product}/>
+      <Product ProductList={product} />
     </>
   )
 }
