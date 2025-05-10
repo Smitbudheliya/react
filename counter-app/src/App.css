@@ -1,0 +1,25 @@
+.app-bg {
+  background: linear-gradient(135deg, #667eea, #764ba2);
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.counter-card {
+  width: 350px;
+  border-radius: 20px;
+  background-color: #ffffffcc; /* semi-transparent white */
+  backdrop-filter: blur(8px);
+  border: none;
+}
+
+.btn-group .btn {
+  margin: 0 8px;
+  transition: transform 0.2s ease;
+}
+
+.btn-group .btn:hover {
+  transform: scale(1.05);
+}
+
+.text-white {
+  text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.3);
+}
