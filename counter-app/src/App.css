@@ -1,25 +1,21 @@
 .app-bg {
-  background: linear-gradient(135deg, #667eea, #764ba2);
+  background: linear-gradient(135deg, #1e3c72, #2a5298);
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
+.glow-text {
+  text-shadow: 0 0 10px #ffffffcc;
+}
+
 .counter-card {
-  width: 350px;
-  border-radius: 20px;
-  background-color: #ffffffcc; /* semi-transparent white */
-  backdrop-filter: blur(8px);
-  border: none;
+  min-width: 300px;
+  max-width: 500px;
 }
 
-.btn-group .btn {
-  margin: 0 8px;
-  transition: transform 0.2s ease;
-}
-
-.btn-group .btn:hover {
-  transform: scale(1.05);
-}
-
-.text-white {
-  text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.3);
+.glassmorphism {
+  background: rgba(255, 255, 255, 0.15);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  border: 1px solid rgba(255, 255, 255, 0.2);
+  color: #fff;
 }
