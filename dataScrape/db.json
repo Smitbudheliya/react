@@ -84,7 +84,7 @@
               "model": "Submariner",
               "price": 9500,
               "description": "Luxury diving watch with classic design.",
-              "image": "https://example.com/images/rolex-submariner.jpg",
+              "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRWutQqux0xzTZXGH-d8JcZSUFlf0KGvFTMmGdByk0cxnLKP3YVzgpp9Bb95Z4JCwdd6hRY8DrGElhUgrukfG67yG-lz9gnuZ9mkwa_wfx8COyaI7OZ_C83Sw",
               "available": true
             },
             {
@@ -93,7 +93,7 @@
               "model": "Speedmaster",
               "price": 6300,
               "description": "The iconic moonwatch worn by astronauts.",
-              "image": "https://example.com/images/omega-speedmaster.jpg",
+              "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTNfI-Y2DpPt_UEqJt3Clr6O7-0R3xjxEp26y6c7dQVyiaVajOSOFcfnBbSWWMMVnFOU8yLGIIULRH6vP-4sta5Z_VnQoa0pe7DbMTm-CFh4tSgB9pFJJ75",
               "available": true
             },
             {
@@ -102,7 +102,7 @@
               "model": "Carrera",
               "price": 4200,
               "description": "Sporty and elegant, designed for motorsport fans.",
-              "image": "https://example.com/images/tag-carrera.jpg",
+              "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcR0XqP8oxypJAcUMS_r2MPbYofw-2SOYsI1QxME6IpmC9sw5csA9tyIdRxu88YMXRVX1gh_dwydKU26j_qrt_HrA2QLjvn04ycQm_PiSXJChU8t4TKTFI7S",
               "available": false
             },
             {
@@ -111,7 +111,7 @@
               "model": "Prospex",
               "price": 1200,
               "description": "Reliable Japanese diving watch at a great value.",
-              "image": "https://example.com/images/seiko-prospex.jpg",
+              "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTBDzwzmCLDWO8mOotNPnKwwiSbbocI9M0STD-bSTMmNwyjSBV8_46slAG5Bvhib7YLIi-ZgbQdkSkE8d2i8N_jTGyVpgyLzoWRZwSaUs6B",
               "available": true
             },
             {
@@ -120,7 +120,7 @@
               "model": "G-Shock GA2100",
               "price": 150,
               "description": "Rugged and affordable digital-analog hybrid.",
-              "image": "https://example.com/images/casio-gshock-ga2100.jpg",
+              "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSOEpowonnltImYZJKDenlcOm4PovSCHXcaT5JWskUyLkC7lrB3VRN0IGoOasn5PmdSjzTKU3EwluaHjqp0RCS_6ytm4leNONU9BLXeeekB2UhKYiMR0Px6",
               "available": true
             }
           ],

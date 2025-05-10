@@ -11,14 +11,14 @@ function App() {
   const [menu, setMenu] = useState([]);
   const [product, setProduct] = useState([]);
   const getMenu = async () => {
-    let response = await fetch(`http://localhost:8000/home`);
+    let response = await fetch(`http://localhost:3000/home`);
     let data = await response.json()
     // console.log(data);
     setMenu(data);
   }
   const getSlider = async () => {
     try {
-      let response = await fetch(`http://localhost:8000/slider`)
+      let response = await fetch(`http://localhost:3000/slider`)
       let data = await response.json();
       setSlider(data);
 
@@ -26,13 +26,14 @@ function App() {
       console.log(err);
 
     }
-  }
+  }  //json-server --watch db.json
+
   const getProduct = async () => {
     try {
-      let response = await fetch(`http://localhost:8000/product`)
+      let response = await fetch(`http://localhost:3000/product`)
       let data = await response.json();
       setProduct(data);
-      console.log(data);
+      console.log(err);
 
 
     } catch (err) {
